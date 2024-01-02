@@ -2,6 +2,8 @@
 Stream Version of Running Microsoft-Phi-2 model https://huggingface.co/microsoft/phi-2 , including GPU and CPU version. 
 
 # How-to-Run
+Python 3.11
+
 pip install -r requirements.txt
 python main.py
 
